@@ -1,4 +1,6 @@
 #nginx-conf
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/direktspeed/ds-nginx-conf.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/tmont/nginx-conf.png)](https://travis-ci.org/tmont/nginx-conf)
 [![NPM version](https://badge.fury.io/js/nginx-conf.png)](http://badge.fury.io/js/nginx-conf)
 
